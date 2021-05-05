@@ -40,7 +40,7 @@ home = ["HTML", "RSS", "JSON"]
 author = "Themefisher"
 description = "This is meta description"
 [params.banner]
-heading = "This year Up With Trees is branching out"
+heading = "HUMAN NATURE"
 image = "images/2020-landscape-1-2.png"
 [params.blog]
 heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
